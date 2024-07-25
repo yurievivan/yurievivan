@@ -9,7 +9,7 @@ I'm Ivan Yuriev a Java Software Developer with more than 10 years of experience.
 [![Facebook Badge](https://img.shields.io/badge/-Ivan_Yuriev-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000436921745) 
 
 - 🕸️: [My Resume/WEB](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yurievivan/About-Me/main/cv2.html)
-- 📎: [My Resume/PDF](https://drive.google.com/file/d/1kmd2COuS-XsMyPtM186rvKe3p6O3yFAv/view?usp=drive_link)
+- 📎: [My Resume/PDF](https://drive.google.com/file/d/1kmd2COuS-XsMyPtM186rvKe3p6O3yFAv/view?usp=sharing)
 
 - <br/>
 

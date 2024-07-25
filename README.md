@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Ivan 👋
 
-<!--
-**yurievivan/yurievivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan Yuriev a Java Software Developer with more than 10 years of experience. During this time, I worked on various projects, both desktop and web projects.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan_Yuriev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-yuriev-9b149866/) 
+[![Mail Badge](https://img.shields.io/badge/-Ivan_Yuriev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yuriev.ivan@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Ivan_Yuriev-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000436921745) 
+
+- 🕸️: [My Resume/WEB](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yurievivan/About-Me/main/cv2.html)
+- 📎: [My Resume/PDF](https://drive.google.com/file/d/1kmd2COuS-XsMyPtM186rvKe3p6O3yFAv/view?usp=drive_link)
+
+- <br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yurievivan&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurievivan&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![Ivan Yuriev profile views](https://u8views.com/api/v1/github/profiles/11561851/views/day-week-month-total-count.svg)](https://u8views.com/github/yurievivan)

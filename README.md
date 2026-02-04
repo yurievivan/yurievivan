@@ -16,7 +16,7 @@ I'm Ivan Yuriev a Java Software Developer with more than 10 years of experience.
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yurievivan&show_icons=true&theme=transparent"/>
+<img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api??username=yurievivan&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurievivan&layout=compact&&langs_count=8"/>
 </div>
 
